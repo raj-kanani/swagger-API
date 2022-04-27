@@ -1,0 +1,18 @@
+***** SWAGGER API **********
+
+
+1) pip install drf-yasg2.
+2) pip install -U drf-yasg[validation]
+
+
+
+
+
+
+
+1)  pip install django-rest-swagger
+	
+
+2) settings.py ( INSTALLED_APPS = [ 'rest_framework_swagger', ] )
+
+3) 

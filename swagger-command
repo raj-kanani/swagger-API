@@ -14,5 +14,4 @@
 	
 
 2) settings.py ( INSTALLED_APPS = [ 'rest_framework_swagger', ] )
-
-3) 
+ 
